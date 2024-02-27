@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitchaya-reddy" alt="nitchaya-reddy" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning,Web Development and Databases.**
+- 🔭 I’m currently working on **Machine Learning,MERN Stack and Blockchain.**
 
-- 🌱 I’m currently learning **Databases, Full stack Web Development**
+- 🌱 I’m currently learning **MERN Stack Development and Machine Learning**
 
 - 🤝 I’m looking for help with **Web development Projects and Problem Solving Skills**
 
-- 💬 Ask me about **C,C++,Python,Java,OOPs**
+- 💬 Ask me about **C,C++,Python,Java,OOPs,ML,MERN Stack**
 
 - 📫 How to reach me **nitchayakv7310@gmail.com**
 
@@ -25,7 +25,7 @@
 <a href="https://www.codechef.com/users/nitchaya_kv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nitchaya_kv" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nitchayakv7310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nitchayakv7310" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/nitchaya_reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nitchaya_reddy" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nitchaya__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nitchaya__" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Nitchaya_Reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nitchaya__" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/nitchayakv7310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nitchayakv7310" height="30" width="40" /></a>
 </p>
 
