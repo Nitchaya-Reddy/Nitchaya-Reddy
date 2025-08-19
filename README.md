@@ -1,5 +1,5 @@
 <h1 align="center"style="color:blue" >Hi 👋, I'm Venkata Nitchaya Reddy Konkala</h1>
-<h3 align="center">A a passionate Computer Science Student.</h3>
+<h3 align="center">A passionate Computer Science Student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitchaya-reddy&label=Profile%20views&color=0e75b6&style=flat" alt="nitchaya-reddy" /> </p>
 
