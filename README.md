@@ -16,10 +16,13 @@ Reduced production defects by 90% and release cycles by 60%.
 ## Projects
 **UF Marketplace** — Go, Gin, AWS S3, WebSockets  
 Scalable marketplace with secure authentication, REST APIs, real-time chat, and cloud storage.
+
 **Distributed Reddit Clone** — Gleam, Erlang, Actor Model  
 Distributed social platform with concurrent clients, persistent storage, and RSA-2048 authentication.
+
 **Chord P2P Protocol** — Gleam, Distributed Systems  
 Fault-tolerant P2P lookup system supporting 5,000+ nodes with O(log N) routing.
+
 **Gestational Diabetes Prediction** — Python, TensorFlow, Scikit-learn  
 ML system achieving 99% accuracy and 100% recall on 3,525 clinical records.
 
