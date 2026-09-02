@@ -11,7 +11,7 @@ Building scalable backend, distributed, cloud and machine learning applications.
 ## Experience
 
 ### Software Engineer Intern — Accenture
-**Java, Spring Boot, JUnit, CI/CD | Feb 2025 – Jun 2025**
+**Java, Spring Boot, JUnit, CI/CD | January 2025 – July 2025**
 
 Designed scalable Java and Spring Boot backend services using OOP and layered architecture for enterprise applications. Reduced production defects by **90%** through automated testing and code reviews. Built CI/CD pipelines that reduced release cycles by **60%** and enabled reliable zero-downtime deployments.
 
