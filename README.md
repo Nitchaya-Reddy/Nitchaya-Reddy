@@ -28,3 +28,4 @@ ML system achieving 99% accuracy and 100% recall on 3,525 clinical records.
 
 ## Education
 **University of Florida** — M.S. Computer Science | 2025–2027
+**Prasad V Potluri Siddhartha Institute of Technology** - B.Tech in Computer Science and Engineering | 2021-2025
