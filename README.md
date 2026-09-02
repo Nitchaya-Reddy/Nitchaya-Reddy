@@ -20,16 +20,16 @@ Designed scalable Java and Spring Boot backend services using OOP and layered ar
 ### [UF Marketplace — Student Buy & Sell Platform](https://github.com/Jcorrieri/uf-marketplace)
 **Go, Gin, GORM, SQLite, JWT, WebSockets, AWS S3, Cypress**
 
-### Distributed Reddit Clone
+### [Distributed Reddit Clone](https://github.com/Nitchaya-Reddy/Distributed-Reddit-Clone-With-Digital-Signatures)
 **Gleam, Erlang, Actor Model, DETS, RSA-2048**
 
-### Chord P2P Protocol
+### [Chord P2P Protocol](https://github.com/Nitchaya-Reddy/P2P)
 **Gleam, Distributed Systems, Network Routing**
 
-### Critter Chronologer
+### [Critter Chronologer](https://github.com/Nitchaya-Reddy/Critter-Chronologer)
 **Java, Spring Boot, MySQL, JPA, Hibernate, JUnit**
 
-### Gestational Diabetes Prediction System
+### [Gestational Diabetes Prediction System](https://github.com/Nitchaya-Reddy/GDMUsingDL-Streamlit)
 **Python, TensorFlow, Scikit-learn, Streamlit, Flask, SQLite**
 
 
