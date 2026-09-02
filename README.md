@@ -1,6 +1,5 @@
 # Venkata Nitchaya Reddy Konkala
-Software Engineer | Backend Engineer | Distributed Systems | AI/ML
-M.S. Computer Science @ University of Florida | CGPA: 3.83
+Software Engineer | Backend Engineer | Distributed Systems | Machine Learning | AI Engineer
 
 Building scalable backend, distributed, cloud, and AI/ML applications.
 
@@ -40,4 +39,5 @@ Developed an ensemble ML system using CNN, SVM, and Random Forest, achieving **9
 
 ## Education
 **University of Florida** — M.S. Computer Science | 2025–2027
+
 **Prasad V Potluri Siddhartha Institute of Technology** - B.Tech in Computer Science and Engineering | 2021-2025
