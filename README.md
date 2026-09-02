@@ -17,7 +17,7 @@ Designed scalable Java and Spring Boot backend services using OOP and layered ar
 
 ## Projects
 
-### UF Marketplace — Student Buy & Sell Platform(https://github.com/Jcorrieri/uf-marketplace)
+### [UF Marketplace — Student Buy & Sell Platform](https://github.com/Jcorrieri/uf-marketplace)
 **Go, Gin, GORM, SQLite, JWT, WebSockets, AWS S3, Cypress**
 
 ### Distributed Reddit Clone
