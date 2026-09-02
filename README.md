@@ -1,7 +1,12 @@
 # Venkata Nitchaya Reddy Konkala
 Software Engineer | Backend Engineer | Distributed Systems | Machine Learning | AI Engineer
 
-Building scalable backend, distributed, cloud, and AI/ML applications.
+Building scalable backend, distributed, cloud and machine learning applications.
+
+## Education
+**University of Florida** — M.S. Computer Science | 2025–2027
+
+**Prasad V Potluri Siddhartha Institute of Technology** - B.Tech in Computer Science and Engineering | 2021-2025
 
 ## Experience
 
@@ -37,7 +42,7 @@ Built a full-stack SaaS scheduling application using Spring Boot and a multilaye
 
 Developed an ensemble ML system using CNN, SVM, and Random Forest, achieving **99% accuracy and 100% recall** on 3,525 clinical records. Applied SMOTE-ENN for class balancing and SelectKBest for feature selection. Deployed a full-stack application with authentication, real-time prediction, and patient history tracking.
 
-## Education
-**University of Florida** — M.S. Computer Science | 2025–2027
+## Contact
 
-**Prasad V Potluri Siddhartha Institute of Technology** - B.Tech in Computer Science and Engineering | 2021-2025
+LinkedIn: https://linkedin.com/in/nitchaya  
+Email: konkalav@ufl.edu
