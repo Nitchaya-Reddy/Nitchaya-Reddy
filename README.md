@@ -6,8 +6,6 @@ Building scalable backend, distributed, cloud and machine learning applications.
 ## Education
 **University of Florida** — M.S. Computer Science | 2025–2027
 
-**Prasad V Potluri Siddhartha Institute of Technology** - B.Tech in Computer Science and Engineering | 2021-2025
-
 ## Experience
 
 ### Software Engineer Intern — Accenture
