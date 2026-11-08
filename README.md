@@ -29,5 +29,5 @@ Designed scalable Java and Spring Boot backend services using OOP and layered ar
 ## Contact
 
 LinkedIn: https://linkedin.com/in/nitchaya  
-Email: konkalav@ufl.edu
+Email: nitchaya.konkala@gmail.com
 
